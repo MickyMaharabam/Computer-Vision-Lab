@@ -1,6 +1,6 @@
 # Computer-Vision-Lab
 A collection of 10 Computer Vision experiments implemented in Python using OpenCV, covering image and video acquisition, image transformations, histogram analysis, edge detection, image enhancement, filtering, corner detection, texture segmentation, image segmentation and object detection using both classical and modern technique
-List of Experiment
+# List of Experiment
 Experiment 1: Image /Video Reading and Display 
 Develop a Python program using OpenCV to demonstrate image acquisition and video acquisition by reading images in multiple modes and capturing live video from a camera, displaying and storing the video stream. 
 Experiment 2: Image Transformations 
