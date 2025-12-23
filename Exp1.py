@@ -1,4 +1,5 @@
 #Experiment 1: Image /Video Reading and Display
+#Python program using OpenCV to perform edge detection based on the Canny algorithm.
 import cv2
 import sys
 
@@ -89,5 +90,6 @@ if __name__ == "__main__":
     print("=== VIDEO ACQUISITION ===")
     demonstrate_video_acquisition()
     print("Practical completed successfully ")
+
 
 
