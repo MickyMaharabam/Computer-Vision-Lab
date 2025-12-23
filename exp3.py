@@ -1,4 +1,5 @@
 #Experiment 3: Histogram Analysis 
+# Python program using OpenCV to apply convolution-based filtering techniques and simulate motion blur.
 import cv2
 import cv2
 import matplotlib.pyplot as plt
@@ -40,4 +41,5 @@ plt.xlabel("Pixel Intensity")
 plt.ylabel("Frequency")
 
 plt.show()
+
 
