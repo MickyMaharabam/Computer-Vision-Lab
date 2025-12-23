@@ -1,4 +1,5 @@
 # Experiment 2: Image Transformations 
+#  Python program using OpenCV to enhance the quality of a digital image by applying spatial domain filtering techniques such as smoothing and sharpening
 import cv2
 import numpy as np
 import sys
@@ -65,3 +66,4 @@ if __name__ == "__main__":
     cv2.waitKey(0)
     cv2.destroyAllWindows()
     print(" Geometric transformations completed")
+
