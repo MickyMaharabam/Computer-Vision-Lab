@@ -1,5 +1,4 @@
 #Experiment 6: Convolution, Filtering, and Motion Blur in Digital Images 
-# Sunil Angom NDU202400105
 import cv2
 import numpy as np
 
@@ -45,3 +44,4 @@ cv2.imshow('Combined Motion Blur', motion_blur_combined)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
