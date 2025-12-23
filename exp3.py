@@ -5,7 +5,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # --- Load the image in grayscale ---
-image_path = "sample.png"  # Make sure this image is in the same folder
+image_path = "sample.png"  
 img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 if img is None:
@@ -41,5 +41,6 @@ plt.xlabel("Pixel Intensity")
 plt.ylabel("Frequency")
 
 plt.show()
+
 
 
